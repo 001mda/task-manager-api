@@ -67,7 +67,7 @@ npm run start:dev
 Сервер будет доступен по адресу:
 
 ```bash
-http://localhost:3000
+http://localhost:4000
 ```
 
 ---
@@ -77,7 +77,7 @@ http://localhost:3000
 После запуска открой:
 
 ```
-http://localhost:3000/api
+http://localhost:4000/api
 ```
 
 Там находится Swagger-документация со всеми доступными маршрутами API.
