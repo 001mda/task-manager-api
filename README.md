@@ -67,7 +67,7 @@ npm run start:dev
 Сервер будет доступен по адресу:
 
 ```bash
-http://localhost:3000
+http://localhost:4000
 ```
 
 ---
